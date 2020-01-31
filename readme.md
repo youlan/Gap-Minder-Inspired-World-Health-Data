@@ -4,7 +4,7 @@ The project built a visualization inspired by [Gapminder](https://www.gapminder.
 
 Author: Yulan Wang
 
-Visualization website:
+Visualization website: https://youlan.github.io/Gap-Minder-Inspired-World-Health-Data/
 
 
 
